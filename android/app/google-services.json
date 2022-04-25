@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "151675978284",
+    "project_id": "flutter-bloc-photo-library",
+    "storage_bucket": "flutter-bloc-photo-library.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151675978284:android:df2f9a3f69cb8d179f8789",
+        "android_client_info": {
+          "package_name": "com.example.image_picker_bloc_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "151675978284-e8vfmdj97ip9f7uscn0f673uphuhsh54.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFqVL29mV96nhFgfCSSZ_eVkcv63B2VoE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "151675978284-e8vfmdj97ip9f7uscn0f673uphuhsh54.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
